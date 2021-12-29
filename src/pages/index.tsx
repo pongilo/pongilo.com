@@ -8,6 +8,7 @@ export default function Home() {
         </p>
         <a
           href="mailto:elton.pongilo@gmail.com"
+          rel="noreferrer"
           className="flex-none font-sans font-normal text-base text-zinc-400 md:hover:text-white"
         >
           Contact
@@ -40,6 +41,7 @@ export default function Home() {
           <a
             href="https://github.com/pongilo"
             target="_blank"
+            rel="noreferrer"
             className="py-8 border-b border-zinc-700 flex flex-row flex-nowrap justify-between items-center md:hover:border-white md:hover:text-white"
           >
             Github
@@ -48,6 +50,7 @@ export default function Home() {
           <a
             href="https://www.behance.net/pongilo"
             target="_blank"
+            rel="noreferrer"
             className="py-8 border-b border-zinc-700 flex flex-row flex-nowrap justify-between items-center md:hover:border-white md:hover:text-white"
           >
             Behance
@@ -56,6 +59,7 @@ export default function Home() {
           <a
             href="https://dribbble.com/pongilo"
             target="_blank"
+            rel="noreferrer"
             className="py-8 border-b border-zinc-700 flex flex-row flex-nowrap justify-between items-center md:hover:border-white md:hover:text-white"
           >
             Dribbble
@@ -64,6 +68,7 @@ export default function Home() {
           <a
             href="https://www.linkedin.com/in/pongilo/"
             target="_blank"
+            rel="noreferrer"
             className="py-8 border-b border-zinc-700 flex flex-row flex-nowrap justify-between items-center md:hover:border-white md:hover:text-white"
           >
             LinkedIn
