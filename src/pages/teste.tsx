@@ -1,7 +1,6 @@
 export default function Teste() {
   function handleOnClick() {
-    window.navigator.vibrate(200);
-    window.navigator.vibrate([200]);
+    navigator.vibrate(200);
   }
 
   return (
