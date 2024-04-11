@@ -7,5 +7,5 @@ export default function Teste() {
     <button type="button" onClick={handleOnClick}>
       Vibrar
     </button>
-  )
+  );
 }
